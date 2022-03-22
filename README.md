@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Hashi-02
+- 👀 I’m interested in WebFront
+- 🌱 I’m currently learning React.js
